@@ -1,0 +1,18 @@
+/* Gets rid of default margin  */
+
+* {
+  margin: 0;
+}
+
+.app {
+  /* Look at ColorZilla */
+  background-color: #fafafa;
+  height: 100vh;
+}
+
+.app__header {
+  background-color: white;
+  padding: 20px;
+  border-bottom: 1px solid lightgray;
+  object-fit: contain;
+}
